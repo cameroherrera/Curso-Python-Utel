@@ -52,16 +52,3 @@ while True:
         
     else:   
         print("Debes escribir tu nombre")
-            
-            
-    
-    
-  
-    
-    
-   # peso = float(input("Introduzca su pero: "))
-   # print("Debes escribir tu pedo")
-   # estatura = float(input("Introduzaca su estarura: "))
-   # print("Debes escribir tu estatura")
-  #  continue
-         
