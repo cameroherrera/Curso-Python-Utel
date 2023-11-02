@@ -1,6 +1,6 @@
 # Calculadora demasa corporal
 # Generamos variables a los datos requeridos
-# Alberto Herrera Camero 2023.
+# Alberto Herrera Camero 2023
 while True:
     nom = input("Introduzca su nombre: ")
     if len(nom) > 1:
@@ -53,3 +53,15 @@ while True:
     else:   
         print("Debes escribir tu nombre")
             
+            
+    
+    
+  
+    
+    
+   # peso = float(input("Introduzca su pero: "))
+   # print("Debes escribir tu pedo")
+   # estatura = float(input("Introduzaca su estarura: "))
+   # print("Debes escribir tu estatura")
+  #  continue
+         
