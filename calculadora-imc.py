@@ -1,6 +1,6 @@
 # Calculadora demasa corporal
 # Generamos variables a los datos requeridos
-# Alberto Herrera Camero 2023
+# Alberto Herrera Camero 2023.
 while True:
     nom = input("Introduzca su nombre: ")
     if len(nom) > 1:
